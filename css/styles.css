@@ -26,3 +26,8 @@ border-radius: 20px;
   background-color: orange;
   color: #fff;
 }
+@media (max-width:991px){
+  .card-body{
+    font-size: 10px;
+  }
+}
