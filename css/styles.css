@@ -1,0 +1,28 @@
+.container-fluid{
+  text-align: center;
+}
+.card{
+width: 30%;
+margin-left: 35%;
+text-align: center;
+margin-top: 40px;
+border-radius: 20px 20px 20px 20px;
+
+}
+
+body{
+
+ background-image: url(img/1.png);
+}
+.card{
+ background-color: #eee;
+}
+.card-img-top{
+border-radius: 20px;
+
+}
+
+.btn{
+  background-color: orange;
+  color: #fff;
+}
